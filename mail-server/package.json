@@ -33,7 +33,7 @@
     "winston": "^3.11.0",
     "node-cron": "^3.0.3",
     "mailparser": "^3.6.5",
-    "nodemailer": "^6.9.7",
+    "nodemailer": "^10.2.1",
     "bcryptjs": "^2.4.3",
     "jsonwebtoken": "^9.0.2",
     "ssl-cert": "^0.1.0",
